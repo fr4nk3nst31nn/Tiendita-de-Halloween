@@ -18,5 +18,4 @@ npm run dev
 npm test
 
 ## Instalación backend
-```bash
 npm run dev:server
