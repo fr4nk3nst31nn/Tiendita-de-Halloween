@@ -1,6 +1,6 @@
 # TIENDITA DE HALLOWEEN
 
-Descripción breve.
+Tiendita de Halloween es un servicio en línea de compra de artículos de Halloween.
 
 ## Demo
 - Vercel: https://tiendita-de-halloween.vercel.app/
