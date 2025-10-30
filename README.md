@@ -14,7 +14,7 @@ Tiendita de Halloween es un servicio en línea de compra de artículos de Hallow
 ## Instalación
 ```bash
 npm install
-npm run dev
+npm start
 npm test
 
 ## Instalación backend
