@@ -1,0 +1,7 @@
+.product-price {
+  color: rgb(29, 30, 37);
+  font-weight: bold;
+  font-size: 1.2rem;
+  text-align: center;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+} 
