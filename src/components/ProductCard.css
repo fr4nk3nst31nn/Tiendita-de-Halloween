@@ -1,5 +1,9 @@
 .product-price {
+<<<<<<< HEAD
   color: rgb(29, 30, 37);
+=======
+  color: white;
+>>>>>>> 1d31a5c861817128d3fc37e1575ef9406e4c06da
   font-weight: bold;
   font-size: 1.2rem;
   text-align: center;

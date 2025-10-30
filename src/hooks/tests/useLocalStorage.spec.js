@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 import { renderHook, act } from '@testing-library/react';
 import useLocalStorage from '../useLocalStorage'; 
+=======
+import { renderHook, act } from '@testing-library/react-hooks';
+import useLocalStorage from '../hooks/useLocalStorage'; 
+>>>>>>> 1d31a5c861817128d3fc37e1575ef9406e4c06da
 
 describe('useLocalStorage Hook', () => {
   beforeEach(() => {

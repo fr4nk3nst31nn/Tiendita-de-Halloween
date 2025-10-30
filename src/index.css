@@ -5,7 +5,11 @@
   --container-color: #3b1b55;  
   --accent-color-1: #8c1986;   
   --accent-color-2: #490d73;   
+<<<<<<< HEAD
   --text-color: #262136;       
+=======
+  --text-color: #f4f7e9;       
+>>>>>>> 1d31a5c861817128d3fc37e1575ef9406e4c06da
   --border-radius: 18px;
   --box-shadow: 0 10px 30px rgba(0, 0, 0, 0.55);
   --gradient: linear-gradient(90deg, var(--accent-color-1) 0%, var(--accent-color-2) 100%);
